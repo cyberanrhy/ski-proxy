@@ -1,8 +1,6 @@
 # profile-title: 🏴 Skitchen VPN 🏴 | 14_06_2026
 # profile-update-interval: 1
-# Date/Time: 2026-06-14 / 20:58 (Moscow)
 # Количество: 137
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@94.177.9.149:443?flow=xtls-rprx-vision&fp=firefox&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&security=reality&sid=b77ac02151b47155&sni=at-c3.buycloud.app&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://7da80930-c39c-4dff-85c0-01036b593514@94.125.102.86:2053?flow=xtls-rprx-vision&fp=qq&pbk=R8xftcMvqVlcV9qfWgpPl3MRyG_LCIludWnD10IxX0g&security=reality&sid=6b1d8f3a&sni=www.wikipedia.org#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%7C%20%5BBL%5D
