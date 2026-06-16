@@ -1,4 +1,4 @@
-# profile-title: 🏴 Skitchen VPN 🏴 | 14_06_2026
+# profile-title: 🏴 Skitchen VPN 🏴 | github.com/cyberanrhy/ski-proxy/blob/main/skitchenVPN.txt
 # profile-update-interval: 1
 #hide-settings: 1
 
