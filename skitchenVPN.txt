@@ -2,9 +2,6 @@
 #profile-update-interval: 24
 #subscription-userinfo: upload=0; download=0; total=52; expire=0
 
-#profile-title: VPN Config
-#profile-update-interval: 24
-#subscription-userinfo: upload=0; download=0; total=50; expire=0
 
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.66:8443?flow=xtls-rprx-vision&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Bern🅿️ping:43.01ms
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&sni=fta.fontanvpn.com&_t=ececfc53&_t=3badc77d#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
