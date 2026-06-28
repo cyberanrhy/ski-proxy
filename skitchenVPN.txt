@@ -1,15 +1,5 @@
-# # profile-title: 🏴 Skitchen VPN 🏴 | github.com/cyberanrhy/ski-proxy/blob/main/skitchenVPN.txt
-# profile-update-interval: 1
-#hide-settings: 1
-# profile-title: 🏴 Skitchen VPN 🏴 | github.com/cyberanrhy/ski-proxy/blob/main/skitchenVPN.txt
-# profile-update-interval: 1
-#hide-settings: 1 | github.com/cyberanrhy/ski-proxy/blob/main/skitchenVPN.txt
-#profile-title: # profile-title: 🏴 Skitchen VPN 🏴 | github.com/cyberanrhy/ski-proxy/blob/main/skitchenVPN.txt
-# profile-update-interval: 1
-#hide-settings: 1
-# profile-title: 🏴 Skitchen VPN 🏴 | github.com/cyberanrhy/ski-proxy/blob/main/skitchenVPN.txt
-# profile-update-interval: 1
-#hide-settings: 1
+# Skitchen VPN | github.com/cyberanrhy/ski-proxy/blob/main/skitchenVPN.txt
+#profile-title: Skitchen VPN
 #profile-update-interval: 1
 #profile-update-interval: 1
 #hide-settings: 1
