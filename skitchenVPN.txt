@@ -1,4 +1,4 @@
-#profile-title: #profile-title: Skitchen VPN 🏴
+#profile-title: Skitchen VPN 🏴
 #profile-update-interval: 24
 #subscription-userinfo: upload=0; download=0; total=67; expire=0
 
