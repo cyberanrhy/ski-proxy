@@ -1,4 +1,4 @@
-#profile-title: #profile-title: Skitchen VPN 🏴
+#profile-title: Skitchen VPN 🏴
 #profile-update-interval: 24
 #hide-settings: 1
 
