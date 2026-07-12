@@ -1,5 +1,6 @@
-#profile-title: Skitchen VPN
+#profile-title: Skicthen VPN
 #profile-update-interval: 24
+
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.149.135.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%A6%20%5BVL%5D%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0%20%239944%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 vless://4a805850-a2c4-42b3-898a-798f0c19c609@cs3iiova.cf.3666888.xyz:2086?type=ws&host=od1kl638.xn--nxa.nyc.mn&path=/sub#%F0%9F%87%BA%F0%9F%87%A6%20%5BVL%5D%20%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0%20%23900%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
