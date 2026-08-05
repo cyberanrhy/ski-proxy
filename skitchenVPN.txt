@@ -1,20 +1,36 @@
-#profile-title: Skitchen VPN 🏴
+#profile-title: skitchenVPN X
 #profile-update-interval: 24
-#hide-settings: 1
+#subscription-userinfo: upload=0; download=0; total=56; expire=0
 
-
-vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&sni=www.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44&spx=/#1 TÜ VLESS/www 443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjE0OTo4MDgw#2 TH SS 8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjExOjgwODA=#3 TH SS 8080
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@89.125.76.140:443?security=reality&type=tcp&fp=firefox&sni=se12.tcpnet.fun&pbk=Z22m3SU-sV639Bdnchaz6Xe9px7TEl9IcqQR02tFgDA&sid=15e86cec&spx=/#🇸🇪 1 SE VLESS/se12 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.76:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 2 PL VLESS/d-pl 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.125:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 4 PL VLESS/d-pl 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 6 PL VLESS/d-pl 443
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.149.146:62145?security=none&type=tcp&encryption=none#🇳🇱 7 NL VLESS 62145
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.110:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 8 PL VLESS/d-pl 443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjE0OTo4MDgw#🇳🇱 9 NL SS 8080
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.95:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 10 PL VLESS/d-pl 443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjExOjgwODA=#🇳🇱 11 NL SS 8080
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 15 PL VLESS/d-pl 443
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE4NS4yMTMuMjAuMTEwOjcwMDE=#🇮🇹 18 IT SS 7001
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.77:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 20 PL VLESS/d-pl 443
+vless://200e4181-caf2-4261-bd98-b1fd9ad1fce1@5.75.201.77:51822?encryption=none&security=none&type=tcp&headerType=none#🇩🇪 21 DE VLESS 51822
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.112:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 23 PL VLESS/d-pl 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.89:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 24 PL VLESS/d-pl 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.100:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 25 PL VLESS/d-pl 443
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?&type=tcp&headerType=none&path=%2F#🇵🇹 26 PT VLESS 60771
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.91:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 27 PL VLESS/d-pl 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 28 PL VLESS/d-pl 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.108:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 29 PL VLESS/d-pl 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 31 PL VLESS/d-pl 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.80:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 32 PL VLESS/d-pl 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.93:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 33 PL VLESS/d-pl 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.115:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 34 PL VLESS/d-pl 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 35 PL VLESS/d-pl 443
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@150.241.93.119:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=d-pl.cloud-cdn.xyz&type=tcp#🇵🇱 36 PL VLESS/d-pl 443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#🇳🇱 37 NL SS 443
 hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?insecure=1&sni=185.236.22.119#🇱🇻 1 LV HY2/185 8444
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=5.255.102.165#2 TH HY2/5 443
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443?insecure=1&sni=wopa5.api3-max.ru#3 HY2/wopa5 443
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443?insecure=1&sni=wopa3.api3-max.ru#4 HY2/wopa3 443
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22224?encryption=none&amp;security=none&amp;type=tcp#🇫🇷 5 FR VLESS 22224
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#6 TH SS 443
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@ger06.routexvpn.space:443?&security=reality&flow=xtls-rprx-vision&pbk=bznxDyVAgreLsIqhgTJpay4Lqhmjf03LHe8npFjn6TE&fp=firefox&sni=yandex.tr&type=tcp&headerType=none&host=yandex.tr&path=%2F#7 VLESS/yandex 443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjE0OTo4MDgw#8 TH SS 8080
-vless://334a7b29-8289-4d92-978b-73597062c9cb@2.26.160.121:55256?type=tcp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=chrome&pbk=fskGEVlsRytBg5WBgJtJb7NWR1LUzf9sFIz5-m1u9DY&sid=c689fb969b&spx=%2FWcODgTOjmXYZ32v#9 CZ VLESS/www 55256
 wireguard://cBKozO0K36UqEEJbJi2hdlmgNJjUT89ONuG%2FnbbbymU%3D@162.159.192.6:2408?address=172.16.0.2%2F32&reserved=212%2C192%2C117&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#10 WG 2408
 wireguard://OOEZOPjCm94euRikLICKRyPcxWqDlCzKAMNeLofkkUM%3D@162.159.192.7:500?address=172.16.0.2%2F32&reserved=239%2C144%2C51&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#11 WG 500
 wireguard://EKunNDHmmsDQe%2FzpLsm3ZtcnZ%2Fz4Jwtn1qZkzU5I%2B1o%3D@162.159.192.6:500?address=172.16.0.2%2F32&reserved=42%2C71%2C148&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#12 WG 500
@@ -42,9 +58,3 @@ wireguard://qNsaCps4a%2BUdx32dPbN1gTaVoTxXR2RbhfOtnyQBVHk%3D@188.114.97.62:955?a
 wireguard://AJKDU8KNLSrhF%2F5LpUkmj5LTkHa7ZFFbnUe8ITwnKVk%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=157%2C228%2C156&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#34 WG 500
 wireguard://8ASQJvRFn5Bmf%2F0FNe%2BXuyxq8BxFcON8QI%2F5mhNYkns%3D@162.159.192.19:2408?addre#35 WG 2408
 wireguard://QJEpilscgBJU68hsICv40%2B5eEvOFp0TOb5WqAeu9Gls%3D@8.6.112.196:7103?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A81cf%3Aafd6%3A7564%3Ae1f3%3A2827%2F128&reserved=251%2C139%2C179&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=25#36 WG 7103
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVkxodFNRRDNiVmpLUkFNMG9mb2ZCQGNyZWF0aXZlYm94bmwuemFuaXR5Lm5ldDo1MjI4#37 SS 5228
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@45.137.43.147:30160?encryption=none&security=reality&sni=yandex.tr&fp=firefox&pbk=vqr3sFlSCpzBjw61NnufMWLDfevzkuT24qo1SaEhp1k&type=xhttp&host=yandex.tr&path=%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22800-1200%22%2C%22hMaxReusableSecs%22%3A%221800-3600%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#38 TH VLESS/yandex 30160
-vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@45.149.147.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin.boxypn.com&fp=firefox&pbk=5sHbJ4047kBhn_28eCvK9cvU1Yd_-qWWl8sVzsSKZhI&type=tcp&headerType=none#🇫🇮 39 FI VLESS/fin 443
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@45.137.43.70:30160?encryption=none&security=reality&sni=yandex.tr&fp=firefox&pbk=vqr3sFlSCpzBjw61NnufMWLDfevzkuT24qo1SaEhp1k&type=xhttp&host=yandex.tr&path=%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22800-1200%22%2C%22hMaxReusableSecs%22%3A%221800-3600%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#40 TH VLESS/yandex 30160
-vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@2.27.27.64:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=qBtxq4RZxDLCJT8i48iaGMhacv8MOI0yhIFiuwYJm08&sid=825d392c67e4&sni=jp.musicwave.net&fp=firefox&alpn=http%2F1.1#🇯🇵 41 JP VLESS/jp 443
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@45.133.209.233:30160?encryption=none&security=reality&sni=yandex.tr&fp=firefox&pbk=vqr3sFlSCpzBjw61NnufMWLDfevzkuT24qo1SaEhp1k&type=xhttp&host=yandex.tr&path=%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22800-1200%22%2C%22hMaxReusableSecs%22%3A%221800-3600%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇩🇪 42 DE VLESS/yandex 30160
