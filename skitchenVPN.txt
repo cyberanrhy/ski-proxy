@@ -1,10 +1,6 @@
 #profile-title: skitchenVPN X
 #profile-update-interval: 24
 #subscription-userinfo: upload=0; download=0; total=85; expire=0
-# skitchenVPN X | github.com/cyberanrhy/ski-proxy/blob/main/skitchenVPN.txt
-
-# skitchenVPN X | github.com/cyberanrhy/ski-proxy/blob/main/skitchenVPN.txt
-
 vless://1c788c0e-50a1-aa52-9cb4-e5aa1f3c0f73@69.46.46.201:443?path=/ws/1c788c0e-50a1-aa52-9cb4-e5aa1f3c0f73&security=tls&alpn=http/1.1&encryption=none&host=misty-heron-b4c2-production.up.railway.app&fp=ios&type=ws&sni=misty-heron-b4c2-production.up.railway.app#server 1 (XX VLESS 443)
 vless://0fcbc45d-acdc-40cf-9a66-961c00f5b4a5@109.169.76.39:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slashdot.org&sid=fd55b698ee8c3629#server 2 (XX VLESS 443)
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.197.109:62145?encryption=none&security=none&type=tcp#server 3 (XX VLESS 62145)
