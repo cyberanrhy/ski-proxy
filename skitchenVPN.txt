@@ -1,55 +1,693 @@
-#profile-title: skitchenVPN X
-#profile-update-interval: 24
-#subscription-userinfo: upload=0; download=0; total=51; expire=0
-
-vless://1c788c0e-50a1-aa52-9cb4-e5aa1f3c0f73@69.46.46.201:443?path=%2Fws%2F1c788c0e-50a1-aa52-9cb4-e5aa1f3c0f73&security=tls&alpn=http%2F1.1&encryption=none&host=misty-heron-b4c2-production.up.railway.app&fp=chrome&type=ws&sni=misty-heron-b4c2-production.up.railway.app
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVNfMTQ4fDI1OUtCL3N8TTAwMi0yNjA2MTgiLCAiYWRkIjogIjE2NS4xNDAuMjE2LjE0MSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAiYWlkIjogIjAiLCAic2N5IjogImFlcy0xMjgtZ2NtIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjVFdfOHwxMjdLQi9zfEMwMDItMjYwNjIyIiwgImFkZCI6ICIxNjUuMTU0LjE5NS4zOCIsICJwb3J0IjogIjM1MDM0IiwgImlkIjogIjk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYWVzLTEyOC1nY20iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc=@38.180.135.156:8388
-vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?security=none&type=tcp&packetEncoding=xudp&encryption=none
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:443
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008
-hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1&sni=www.cloudflare.com
-hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723?insecure=1&sni=www.cloudflare.com
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjU0dfNjR8NDExS0Ivc3xQMDAyLTI2MDYxOCIsICJhZGQiOiAieC11aS56eGhoLnRvcCIsICJwb3J0IjogIjUzMzg2IiwgImlkIjogIjMyZTc1NjYyLWMxZWQtNGU4ZC1mNzhjLTNkY2M2ODVjYzc5NSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYWVzLTEyOC1nY20iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkVEhfNXwxMjhLQi9zfFIwMDItMjYwNjE4IiwgImFkZCI6ICIxMTkuNDYuNTEuNDUiLCAicG9ydCI6ICIzNzUxNSIsICJpZCI6ICI5Yjc2YmMzMS0xN2E1LTQ0NTQtOTM0YS04ZDVmYjYwMmNkNzAiLCAiYWlkIjogIjAiLCAic2N5IjogImFlcy0xMjgtZ2NtIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiJ9
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.86.107:9830?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=xudp&sni=dl.google.com&fp=chrome&sid=aabbccdd&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@mg3.mangshe.xyz:2056?insecure=1&sni=mg3.mangshe.xyz
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=xudp&sni=dl.google.com&fp=chrome&sid=aabb&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.221.81:62145?security=none&type=tcp&packetEncoding=xudp
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.248:62145?security=none&type=tcp&packetEncoding=xudp
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.249:62145?security=none&type=tcp&packetEncoding=none
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.223.92:62145?security=none&type=tcp&packetEncoding=none&encryption=none
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjU0dfMTI2fDI5M0tCL3N8UjAwMi0yNjA2MTgiLCAiYWRkIjogIngtdWkuenhoaC50b3AiLCAicG9ydCI6ICI1MzM4NSIsICJpZCI6ICI2YWFjMDI0MS0wYzY2LTRiZWMtOTQyZC1lOGE4ZDliMTFhM2EiLCAiYWlkIjogIjAiLCAic2N5IjogImFlcy0xMjgtZ2NtIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiJ9
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.205.11:62145?security=none&type=tcp&packetEncoding=xudp
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.186:62145?security=none&type=tcp&packetEncoding=xudp
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.60.49:62145?security=none&type=tcp&packetEncoding=xudp
-vless://6abf1f50-a5bf-46a3-ac7b-299c47defe3b@108.61.188.123:15995?security=none&type=tcp&packetEncoding=xudp
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjU0dfMTM5fDQxNktCL3N8QTAwNC0yNjA2MTgiLCAiYWRkIjogIjIxMy4zNS4xMDMuMTc3IiwgInBvcnQiOiAiNTMzODYiLCAiaWQiOiAiMzJlNzU2NjItYzFlZC00ZThkLWY3OGMtM2RjYzY4NWNjNzk1IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhZXMtMTI4LWdjbSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIifQ==
-vless://a4c4b72e-c956-47bb-b3f8-d0cc77182553@node15.fastdatastream.com:2053?security=reality&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=www.spotify.com&fp=chrome&sid=f6e5&pbk=XUEdMxxVpe4krnSBSuxMjeVlvOKfNSO_AOAZ_BTiHxk
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1SlBfNDN8MzAyS0Ivc3xBMDA0LTI2MDYxOCIsICJhZGQiOiAiMTU1LjI0OC4xNzYuNDQiLCAicG9ydCI6ICI1NTIxNiIsICJpZCI6ICIxNTRkYmMzOS0wOTIxLWNmMTEtMjliZC0xNTZjNTAwMGQ3NjMiLCAiYWlkIjogIjAiLCAic2N5IjogImFlcy0xMjgtZ2NtIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiJ9
-vless://419f25c1-bc35-412e-93fb-258efee859b5@gb2.murhost.network:443?security=reality&type=tcp&packetEncoding=xudp&sni=gb2.murhost.network&fp=firefox&flow=xtls-rprx-vision&sid=fc36b4a584871aa5&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo
-vless://064a967e-0862-4cea-bdbd-9458cb7b6070@91.224.87.22:9873?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=xudp&sni=dl.google.com&fp=firefox&sid=aabb&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU
-vless://042adee0-9b4f-43f5-a915-a627313f28c0@www.homaxcorp.com.homaxcorp.com:2055?security=none&type=ws&path=%2F&host=images.mzstatic.com&packetEncoding=xudp&encryption=none
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@152.70.49.181:62145?type=tcp&headerType=none&path=%2F
-vless://9972a440-39a6-4672-8883-5dd188863acf@135.106.194.254:52?encryption=none&type=tcp&headerType=none
-vless://9972a440-39a6-4672-8883-5dd188863acf@135.106.194.254:56?encryption=none&type=tcp&headerType=none
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@pl.alertyagency.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=DaQjKlJbC2ksBaItYb0fjt1xkIcxRh_STIQ4rkrydjY&sid=7db44191&type=tcp&headerType=none
-vless://c7fc6e44-d57b-49b9-9ff2-a4e0aa9e9b8c@pp.alertyagency.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=kUuy5M4V5bfjri7m_XBryv1YTLLlPLPIwPotJJgpgEc&sid=87922049&type=tcp&headerType=none
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@178.160.229.238:9443?type=grpc&security=reality&fp=firefox&pbk=SgV6vBorDPinOHb19xf_3sCP_IUI5Ot9zv7lPuUVhjM&sid=1388c268&sni=api-maps.yandex.ru&serviceName=grpc
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@am.alertyagency.com:9443?type=grpc&security=reality&fp=firefox&pbk=SgV6vBorDPinOHb19xf_3sCP_IUI5Ot9zv7lPuUVhjM&sid=1388c268&sni=api-maps.yandex.ru&serviceName=grpc&spx=/
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?encryption=none&security=reality&sni=bg3.univesalsrv.com&fp=firefox&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&type=grpc&serviceName=home.v1.ApiService&mode=gun
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&sid=1a3102bb8e51399e&sni=bg5.univesalsrv.com&serviceName=gw.v2.RelayService
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg4.univesalsrv.com:443?encryption=none&security=reality&sni=bg4.univesalsrv.com&fp=firefox&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319&type=grpc&serviceName=cloud.v1.RelayService&mode=gun
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?encryption=none&security=reality&sni=bg2.univesalsrv.com&fp=firefox&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&type=grpc&serviceName=api.v2.PushService&mode=gun
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg1.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=vCxac528c27GggqKBDwXVYvnzyI_BIlc7eqRTo8xqEY&sid=954891aec4fe0be9&sni=bg1.univesalsrv.com&serviceName=gw.v1.StreamService
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.120.174:62145?encryption=none&type=tcp&headerType=none&security=none
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@77.239.126.210:9443?type=grpc&security=reality&fp=firefox&pbk=nP6l7_NPVUklPsrochXfsGGjbDHMHGWodoXN3h_6RQU&sid=b71a4299&sni=api-maps.yandex.ru&serviceName=grpc
+{
+  "log": {
+    "level": "error"
+  },
+  "inbounds": [
+    {
+      "type": "mixed",
+      "tag": "socks-in",
+      "listen": "127.0.0.1",
+      "listen_port": 1080
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "vless",
+      "server": "69.46.46.201",
+      "server_port": 443,
+      "uuid": "1c788c0e-50a1-aa52-9cb4-e5aa1f3c0f73",
+      "tls": {
+        "enabled": true,
+        "server_name": "misty-heron-b4c2-production.up.railway.app",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/ws/1c788c0e-50a1-aa52-9cb4-e5aa1f3c0f73",
+        "headers": {
+          "Host": "misty-heron-b4c2-production.up.railway.app"
+        }
+      },
+      "tag": "proxy-0"
+    },
+    {
+      "type": "shadowsocks",
+      "server": "82.38.31.7",
+      "server_port": 8080,
+      "method": "chacha20-ietf-poly1305",
+      "password": "oZIoA69Q8yhcQV8ka3Pa3A",
+      "tag": "proxy-1"
+    },
+    {
+      "type": "shadowsocks",
+      "server": "82.38.31.15",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "oZIoA69Q8yhcQV8ka3Pa3A",
+      "tag": "proxy-2"
+    },
+    {
+      "type": "vmess",
+      "server": "165.140.216.141",
+      "server_port": 443,
+      "uuid": "e7d72a8d-26f2-4b54-b366-0c43e0bcba7d",
+      "alter_id": 0,
+      "tag": "proxy-3"
+    },
+    {
+      "type": "vmess",
+      "server": "165.154.195.38",
+      "server_port": 35034,
+      "uuid": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
+      "alter_id": 0,
+      "tag": "proxy-4"
+    },
+    {
+      "type": "shadowsocks",
+      "server": "38.180.135.156",
+      "server_port": 8388,
+      "method": "chacha20-ietf-poly1305",
+      "password": "YHtesZ0qvgtg",
+      "tag": "proxy-5"
+    },
+    {
+      "type": "vless",
+      "server": "154.19.184.40",
+      "server_port": 52535,
+      "uuid": "a1ac8747-4fd7-486b-b099-19fbb45610be",
+      "tag": "proxy-6"
+    },
+    {
+      "type": "shadowsocks",
+      "server": "82.38.31.17",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "oZIoA69Q8yhcQV8ka3Pa3A",
+      "tag": "proxy-7"
+    },
+    {
+      "type": "shadowsocks",
+      "server": "82.38.31.18",
+      "server_port": 443,
+      "method": "chacha20-ietf-poly1305",
+      "password": "oZIoA69Q8yhcQV8ka3Pa3A",
+      "tag": "proxy-8"
+    },
+    {
+      "type": "shadowsocks",
+      "server": "15.204.247.124",
+      "server_port": 2375,
+      "method": "aes-256-gcm",
+      "password": "faBAoD54k87UJG7",
+      "tag": "proxy-9"
+    },
+    {
+      "type": "shadowsocks",
+      "server": "15.204.246.132",
+      "server_port": 7307,
+      "method": "aes-256-gcm",
+      "password": "FoOiGlkAA9yPEGP",
+      "tag": "proxy-10"
+    },
+    {
+      "type": "shadowsocks",
+      "server": "15.204.247.175",
+      "server_port": 8008,
+      "method": "aes-256-gcm",
+      "password": "XKFKl2rULjIp74",
+      "tag": "proxy-11"
+    },
+    {
+      "type": "hysteria2",
+      "server": "de2.vpn.legendaah.xyz",
+      "server_port": 36723,
+      "password": "Krab9Hyst2_Rk7pQ2xL",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cloudflare.com",
+        "insecure": true
+      },
+      "tag": "proxy-12"
+    },
+    {
+      "type": "hysteria2",
+      "server": "95.164.123.231",
+      "server_port": 36723,
+      "password": "Krab9Hyst2_Rk7pQ2xL",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.cloudflare.com",
+        "insecure": true
+      },
+      "tag": "proxy-13"
+    },
+    {
+      "type": "vmess",
+      "server": "x-ui.zxhh.top",
+      "server_port": 53386,
+      "uuid": "32e75662-c1ed-4e8d-f78c-3dcc685cc795",
+      "alter_id": 0,
+      "tag": "proxy-14"
+    },
+    {
+      "type": "vmess",
+      "server": "119.46.51.45",
+      "server_port": 37515,
+      "uuid": "9b76bc31-17a5-4454-934a-8d5fb602cd70",
+      "alter_id": 0,
+      "tag": "proxy-15"
+    },
+    {
+      "type": "vless",
+      "server": "91.224.86.107",
+      "server_port": 9830,
+      "uuid": "76186f1e-3062-4a2b-98c2-fab3c61a9511",
+      "tls": {
+        "enabled": true,
+        "server_name": "dl.google.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU",
+          "short_id": "aabbccdd"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc-tunnel"
+      },
+      "tag": "proxy-16"
+    },
+    {
+      "type": "hysteria2",
+      "server": "mg3.mangshe.xyz",
+      "server_port": 2056,
+      "password": "41f0d6d3-4a45-4635-8225-2abd2284189b",
+      "tls": {
+        "enabled": true,
+        "server_name": "mg3.mangshe.xyz",
+        "insecure": true
+      },
+      "tag": "proxy-17"
+    },
+    {
+      "type": "vless",
+      "server": "91.224.87.22",
+      "server_port": 9882,
+      "uuid": "76186f1e-3062-4a2b-98c2-fab3c61a9511",
+      "tls": {
+        "enabled": true,
+        "server_name": "dl.google.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU",
+          "short_id": "aabb"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc-tunnel"
+      },
+      "tag": "proxy-18"
+    },
+    {
+      "type": "vless",
+      "server": "157.137.221.81",
+      "server_port": 62145,
+      "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "tag": "proxy-19"
+    },
+    {
+      "type": "vless",
+      "server": "157.137.210.248",
+      "server_port": 62145,
+      "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "tag": "proxy-20"
+    },
+    {
+      "type": "vless",
+      "server": "157.137.235.249",
+      "server_port": 62145,
+      "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "tag": "proxy-21"
+    },
+    {
+      "type": "vless",
+      "server": "157.137.223.92",
+      "server_port": 62145,
+      "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "tag": "proxy-22"
+    },
+    {
+      "type": "vmess",
+      "server": "x-ui.zxhh.top",
+      "server_port": 53385,
+      "uuid": "6aac0241-0c66-4bec-942d-e8a8d9b11a3a",
+      "alter_id": 0,
+      "tag": "proxy-23"
+    },
+    {
+      "type": "vless",
+      "server": "158.101.205.11",
+      "server_port": 62145,
+      "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "tag": "proxy-24"
+    },
+    {
+      "type": "vless",
+      "server": "149.130.185.186",
+      "server_port": 62145,
+      "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "tag": "proxy-25"
+    },
+    {
+      "type": "vless",
+      "server": "152.70.60.49",
+      "server_port": 62145,
+      "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "tag": "proxy-26"
+    },
+    {
+      "type": "vless",
+      "server": "108.61.188.123",
+      "server_port": 15995,
+      "uuid": "6abf1f50-a5bf-46a3-ac7b-299c47defe3b",
+      "tag": "proxy-27"
+    },
+    {
+      "type": "vmess",
+      "server": "213.35.103.177",
+      "server_port": 53386,
+      "uuid": "32e75662-c1ed-4e8d-f78c-3dcc685cc795",
+      "alter_id": 0,
+      "tag": "proxy-28"
+    },
+    {
+      "type": "vless",
+      "server": "node15.fastdatastream.com",
+      "server_port": 2053,
+      "uuid": "a4c4b72e-c956-47bb-b3f8-d0cc77182553",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.spotify.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "XUEdMxxVpe4krnSBSuxMjeVlvOKfNSO_AOAZ_BTiHxk",
+          "short_id": "f6e5"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc"
+      },
+      "tag": "proxy-29"
+    },
+    {
+      "type": "vmess",
+      "server": "155.248.176.44",
+      "server_port": 55216,
+      "uuid": "154dbc39-0921-cf11-29bd-156c5000d763",
+      "alter_id": 0,
+      "tag": "proxy-30"
+    },
+    {
+      "type": "vless",
+      "server": "gb2.murhost.network",
+      "server_port": 443,
+      "uuid": "419f25c1-bc35-412e-93fb-258efee859b5",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "gb2.murhost.network",
+        "reality": {
+          "enabled": true,
+          "public_key": "fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo",
+          "short_id": "fc36b4a584871aa5"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "tag": "proxy-31"
+    },
+    {
+      "type": "vless",
+      "server": "91.224.87.22",
+      "server_port": 9873,
+      "uuid": "064a967e-0862-4cea-bdbd-9458cb7b6070",
+      "tls": {
+        "enabled": true,
+        "server_name": "dl.google.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU",
+          "short_id": "aabb"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc-tunnel"
+      },
+      "tag": "proxy-32"
+    },
+    {
+      "type": "vless",
+      "server": "www.homaxcorp.com.homaxcorp.com",
+      "server_port": 2055,
+      "uuid": "042adee0-9b4f-43f5-a915-a627313f28c0",
+      "transport": {
+        "type": "ws",
+        "path": "/",
+        "headers": {
+          "Host": "images.mzstatic.com"
+        }
+      },
+      "tag": "proxy-33"
+    },
+    {
+      "type": "shadowsocks",
+      "server": "108.181.121.226",
+      "server_port": 8388,
+      "method": "chacha20-ietf-poly1305",
+      "password": "WSyL4XTwNsdv",
+      "tag": "proxy-34"
+    },
+    {
+      "type": "shadowsocks",
+      "server": "84.247.155.196",
+      "server_port": 80,
+      "method": "aes-256-gcm",
+      "password": "3eOFeNssde7PYYMv",
+      "tag": "proxy-35"
+    },
+    {
+      "type": "vless",
+      "server": "md5.univesalsrv.com",
+      "server_port": 443,
+      "uuid": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "tls": {
+        "enabled": true,
+        "server_name": "md5.univesalsrv.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg",
+          "short_id": "aa9884f2982b7d3c"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "app.v1.PushService"
+      },
+      "tag": "proxy-36"
+    },
+    {
+      "type": "vless",
+      "server": "152.70.49.181",
+      "server_port": 62145,
+      "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "tag": "proxy-37"
+    },
+    {
+      "type": "vless",
+      "server": "135.106.194.254",
+      "server_port": 52,
+      "uuid": "9972a440-39a6-4672-8883-5dd188863acf",
+      "tag": "proxy-38"
+    },
+    {
+      "type": "vless",
+      "server": "135.106.194.254",
+      "server_port": 56,
+      "uuid": "9972a440-39a6-4672-8883-5dd188863acf",
+      "tag": "proxy-39"
+    },
+    {
+      "type": "vless",
+      "server": "pl.alertyagency.com",
+      "server_port": 443,
+      "uuid": "a704443d-655e-4d9f-8ce6-12eeb17a9a08",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "api-maps.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "DaQjKlJbC2ksBaItYb0fjt1xkIcxRh_STIQ4rkrydjY",
+          "short_id": "7db44191"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "tag": "proxy-40"
+    },
+    {
+      "type": "vless",
+      "server": "pp.alertyagency.com",
+      "server_port": 443,
+      "uuid": "c7fc6e44-d57b-49b9-9ff2-a4e0aa9e9b8c",
+      "flow": "xtls-rprx-vision",
+      "tls": {
+        "enabled": true,
+        "server_name": "api-maps.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "kUuy5M4V5bfjri7m_XBryv1YTLLlPLPIwPotJJgpgEc",
+          "short_id": "87922049"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      },
+      "tag": "proxy-41"
+    },
+    {
+      "type": "vless",
+      "server": "178.160.229.238",
+      "server_port": 9443,
+      "uuid": "a704443d-655e-4d9f-8ce6-12eeb17a9a08",
+      "tls": {
+        "enabled": true,
+        "server_name": "api-maps.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "SgV6vBorDPinOHb19xf_3sCP_IUI5Ot9zv7lPuUVhjM",
+          "short_id": "1388c268"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc"
+      },
+      "tag": "proxy-42"
+    },
+    {
+      "type": "vless",
+      "server": "am.alertyagency.com",
+      "server_port": 9443,
+      "uuid": "a704443d-655e-4d9f-8ce6-12eeb17a9a08",
+      "tls": {
+        "enabled": true,
+        "server_name": "api-maps.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "SgV6vBorDPinOHb19xf_3sCP_IUI5Ot9zv7lPuUVhjM",
+          "short_id": "1388c268"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc"
+      },
+      "tag": "proxy-43"
+    },
+    {
+      "type": "vless",
+      "server": "bg3.univesalsrv.com",
+      "server_port": 443,
+      "uuid": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "tls": {
+        "enabled": true,
+        "server_name": "bg3.univesalsrv.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk",
+          "short_id": "1be1bd931c98c84a"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "home.v1.ApiService"
+      },
+      "tag": "proxy-44"
+    },
+    {
+      "type": "vless",
+      "server": "bg5.univesalsrv.com",
+      "server_port": 443,
+      "uuid": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "tls": {
+        "enabled": true,
+        "server_name": "bg5.univesalsrv.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw",
+          "short_id": "1a3102bb8e51399e"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "gw.v2.RelayService"
+      },
+      "tag": "proxy-45"
+    },
+    {
+      "type": "vless",
+      "server": "bg4.univesalsrv.com",
+      "server_port": 443,
+      "uuid": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "tls": {
+        "enabled": true,
+        "server_name": "bg4.univesalsrv.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc",
+          "short_id": "51f45d4fd58cc319"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "cloud.v1.RelayService"
+      },
+      "tag": "proxy-46"
+    },
+    {
+      "type": "vless",
+      "server": "bg2.univesalsrv.com",
+      "server_port": 443,
+      "uuid": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "tls": {
+        "enabled": true,
+        "server_name": "bg2.univesalsrv.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4",
+          "short_id": "501ab3325b77e1ca"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "api.v2.PushService"
+      },
+      "tag": "proxy-47"
+    },
+    {
+      "type": "vless",
+      "server": "bg1.univesalsrv.com",
+      "server_port": 443,
+      "uuid": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
+      "tls": {
+        "enabled": true,
+        "server_name": "bg1.univesalsrv.com",
+        "reality": {
+          "enabled": true,
+          "public_key": "vCxac528c27GggqKBDwXVYvnzyI_BIlc7eqRTo8xqEY",
+          "short_id": "954891aec4fe0be9"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "gw.v1.StreamService"
+      },
+      "tag": "proxy-48"
+    },
+    {
+      "type": "vless",
+      "server": "158.247.120.174",
+      "server_port": 62145,
+      "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
+      "tag": "proxy-49"
+    },
+    {
+      "type": "vless",
+      "server": "77.239.126.210",
+      "server_port": 9443,
+      "uuid": "a704443d-655e-4d9f-8ce6-12eeb17a9a08",
+      "tls": {
+        "enabled": true,
+        "server_name": "api-maps.yandex.ru",
+        "reality": {
+          "enabled": true,
+          "public_key": "nP6l7_NPVUklPsrochXfsGGjbDHMHGWodoXN3h_6RQU",
+          "short_id": "b71a4299"
+        },
+        "utls": {
+          "enabled": true,
+          "fingerprint": "firefox"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "grpc"
+      },
+      "tag": "proxy-50"
+    }
+  ],
+  "route": {
+    "rules": [],
+    "final": "proxy-0"
+  }
+}
