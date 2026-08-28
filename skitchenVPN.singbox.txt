@@ -21,7 +21,7 @@
         "server_name": "misty-heron-b4c2-production.up.railway.app",
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "ios"
         }
       },
       "transport": {
@@ -50,35 +50,19 @@
       "tag": "proxy-2"
     },
     {
-      "type": "vmess",
-      "server": "165.140.216.141",
-      "server_port": 443,
-      "uuid": "e7d72a8d-26f2-4b54-b366-0c43e0bcba7d",
-      "alter_id": 0,
-      "tag": "proxy-3"
-    },
-    {
-      "type": "vmess",
-      "server": "165.154.195.38",
-      "server_port": 35034,
-      "uuid": "959a8caf-4cea-43d0-a548-3628e7ddfafc",
-      "alter_id": 0,
-      "tag": "proxy-4"
-    },
-    {
       "type": "shadowsocks",
       "server": "38.180.135.156",
       "server_port": 8388,
       "method": "chacha20-ietf-poly1305",
       "password": "YHtesZ0qvgtg",
-      "tag": "proxy-5"
+      "tag": "proxy-3"
     },
     {
       "type": "vless",
       "server": "154.19.184.40",
       "server_port": 52535,
       "uuid": "a1ac8747-4fd7-486b-b099-19fbb45610be",
-      "tag": "proxy-6"
+      "tag": "proxy-4"
     },
     {
       "type": "shadowsocks",
@@ -86,7 +70,7 @@
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
       "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-      "tag": "proxy-7"
+      "tag": "proxy-5"
     },
     {
       "type": "shadowsocks",
@@ -94,7 +78,7 @@
       "server_port": 443,
       "method": "chacha20-ietf-poly1305",
       "password": "oZIoA69Q8yhcQV8ka3Pa3A",
-      "tag": "proxy-8"
+      "tag": "proxy-6"
     },
     {
       "type": "shadowsocks",
@@ -102,7 +86,7 @@
       "server_port": 2375,
       "method": "aes-256-gcm",
       "password": "faBAoD54k87UJG7",
-      "tag": "proxy-9"
+      "tag": "proxy-7"
     },
     {
       "type": "shadowsocks",
@@ -110,7 +94,7 @@
       "server_port": 7307,
       "method": "aes-256-gcm",
       "password": "FoOiGlkAA9yPEGP",
-      "tag": "proxy-10"
+      "tag": "proxy-8"
     },
     {
       "type": "shadowsocks",
@@ -118,7 +102,7 @@
       "server_port": 8008,
       "method": "aes-256-gcm",
       "password": "XKFKl2rULjIp74",
-      "tag": "proxy-11"
+      "tag": "proxy-9"
     },
     {
       "type": "hysteria2",
@@ -130,7 +114,7 @@
         "server_name": "www.cloudflare.com",
         "insecure": true
       },
-      "tag": "proxy-12"
+      "tag": "proxy-10"
     },
     {
       "type": "hysteria2",
@@ -142,23 +126,7 @@
         "server_name": "www.cloudflare.com",
         "insecure": true
       },
-      "tag": "proxy-13"
-    },
-    {
-      "type": "vmess",
-      "server": "x-ui.zxhh.top",
-      "server_port": 53386,
-      "uuid": "32e75662-c1ed-4e8d-f78c-3dcc685cc795",
-      "alter_id": 0,
-      "tag": "proxy-14"
-    },
-    {
-      "type": "vmess",
-      "server": "119.46.51.45",
-      "server_port": 37515,
-      "uuid": "9b76bc31-17a5-4454-934a-8d5fb602cd70",
-      "alter_id": 0,
-      "tag": "proxy-15"
+      "tag": "proxy-11"
     },
     {
       "type": "vless",
@@ -175,14 +143,14 @@
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "transport": {
         "type": "grpc",
         "service_name": "grpc-tunnel"
       },
-      "tag": "proxy-16"
+      "tag": "proxy-12"
     },
     {
       "type": "hysteria2",
@@ -194,7 +162,7 @@
         "server_name": "mg3.mangshe.xyz",
         "insecure": true
       },
-      "tag": "proxy-17"
+      "tag": "proxy-13"
     },
     {
       "type": "vless",
@@ -211,86 +179,70 @@
         },
         "utls": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "fingerprint": "qq"
         }
       },
       "transport": {
         "type": "grpc",
         "service_name": "grpc-tunnel"
       },
-      "tag": "proxy-18"
+      "tag": "proxy-14"
     },
     {
       "type": "vless",
       "server": "157.137.221.81",
       "server_port": 62145,
       "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
-      "tag": "proxy-19"
+      "tag": "proxy-15"
     },
     {
       "type": "vless",
       "server": "157.137.210.248",
       "server_port": 62145,
       "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
-      "tag": "proxy-20"
+      "tag": "proxy-16"
     },
     {
       "type": "vless",
       "server": "157.137.235.249",
       "server_port": 62145,
       "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
-      "tag": "proxy-21"
+      "tag": "proxy-17"
     },
     {
       "type": "vless",
       "server": "157.137.223.92",
       "server_port": 62145,
       "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
-      "tag": "proxy-22"
-    },
-    {
-      "type": "vmess",
-      "server": "x-ui.zxhh.top",
-      "server_port": 53385,
-      "uuid": "6aac0241-0c66-4bec-942d-e8a8d9b11a3a",
-      "alter_id": 0,
-      "tag": "proxy-23"
+      "tag": "proxy-18"
     },
     {
       "type": "vless",
       "server": "158.101.205.11",
       "server_port": 62145,
       "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
-      "tag": "proxy-24"
+      "tag": "proxy-19"
     },
     {
       "type": "vless",
       "server": "149.130.185.186",
       "server_port": 62145,
       "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
-      "tag": "proxy-25"
+      "tag": "proxy-20"
     },
     {
       "type": "vless",
       "server": "152.70.60.49",
       "server_port": 62145,
       "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
-      "tag": "proxy-26"
+      "tag": "proxy-21"
     },
     {
       "type": "vless",
       "server": "108.61.188.123",
       "server_port": 15995,
       "uuid": "6abf1f50-a5bf-46a3-ac7b-299c47defe3b",
-      "tag": "proxy-27"
-    },
-    {
-      "type": "vmess",
-      "server": "213.35.103.177",
-      "server_port": 53386,
-      "uuid": "32e75662-c1ed-4e8d-f78c-3dcc685cc795",
-      "alter_id": 0,
-      "tag": "proxy-28"
+      "tag": "proxy-22"
     },
     {
       "type": "vless",
@@ -314,15 +266,7 @@
         "type": "grpc",
         "service_name": "grpc"
       },
-      "tag": "proxy-29"
-    },
-    {
-      "type": "vmess",
-      "server": "155.248.176.44",
-      "server_port": 55216,
-      "uuid": "154dbc39-0921-cf11-29bd-156c5000d763",
-      "alter_id": 0,
-      "tag": "proxy-30"
+      "tag": "proxy-23"
     },
     {
       "type": "vless",
@@ -343,7 +287,7 @@
           "fingerprint": "firefox"
         }
       },
-      "tag": "proxy-31"
+      "tag": "proxy-24"
     },
     {
       "type": "vless",
@@ -367,7 +311,7 @@
         "type": "grpc",
         "service_name": "grpc-tunnel"
       },
-      "tag": "proxy-32"
+      "tag": "proxy-25"
     },
     {
       "type": "vless",
@@ -381,7 +325,7 @@
           "Host": "images.mzstatic.com"
         }
       },
-      "tag": "proxy-33"
+      "tag": "proxy-26"
     },
     {
       "type": "shadowsocks",
@@ -389,7 +333,7 @@
       "server_port": 8388,
       "method": "chacha20-ietf-poly1305",
       "password": "WSyL4XTwNsdv",
-      "tag": "proxy-34"
+      "tag": "proxy-27"
     },
     {
       "type": "shadowsocks",
@@ -397,52 +341,28 @@
       "server_port": 80,
       "method": "aes-256-gcm",
       "password": "3eOFeNssde7PYYMv",
-      "tag": "proxy-35"
-    },
-    {
-      "type": "vless",
-      "server": "md5.univesalsrv.com",
-      "server_port": 443,
-      "uuid": "2f35965a-9a9b-45fd-ba32-987296dfb6be",
-      "tls": {
-        "enabled": true,
-        "server_name": "md5.univesalsrv.com",
-        "reality": {
-          "enabled": true,
-          "public_key": "99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg",
-          "short_id": "aa9884f2982b7d3c"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "app.v1.PushService"
-      },
-      "tag": "proxy-36"
+      "tag": "proxy-28"
     },
     {
       "type": "vless",
       "server": "152.70.49.181",
       "server_port": 62145,
       "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
-      "tag": "proxy-37"
+      "tag": "proxy-29"
     },
     {
       "type": "vless",
       "server": "135.106.194.254",
       "server_port": 52,
       "uuid": "9972a440-39a6-4672-8883-5dd188863acf",
-      "tag": "proxy-38"
+      "tag": "proxy-30"
     },
     {
       "type": "vless",
       "server": "135.106.194.254",
       "server_port": 56,
       "uuid": "9972a440-39a6-4672-8883-5dd188863acf",
-      "tag": "proxy-39"
+      "tag": "proxy-31"
     },
     {
       "type": "vless",
@@ -463,7 +383,7 @@
           "fingerprint": "chrome"
         }
       },
-      "tag": "proxy-40"
+      "tag": "proxy-32"
     },
     {
       "type": "vless",
@@ -484,7 +404,7 @@
           "fingerprint": "chrome"
         }
       },
-      "tag": "proxy-41"
+      "tag": "proxy-33"
     },
     {
       "type": "vless",
@@ -508,31 +428,7 @@
         "type": "grpc",
         "service_name": "grpc"
       },
-      "tag": "proxy-42"
-    },
-    {
-      "type": "vless",
-      "server": "am.alertyagency.com",
-      "server_port": 9443,
-      "uuid": "a704443d-655e-4d9f-8ce6-12eeb17a9a08",
-      "tls": {
-        "enabled": true,
-        "server_name": "api-maps.yandex.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "SgV6vBorDPinOHb19xf_3sCP_IUI5Ot9zv7lPuUVhjM",
-          "short_id": "1388c268"
-        },
-        "utls": {
-          "enabled": true,
-          "fingerprint": "firefox"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "grpc"
-      },
-      "tag": "proxy-43"
+      "tag": "proxy-34"
     },
     {
       "type": "vless",
@@ -556,7 +452,7 @@
         "type": "grpc",
         "service_name": "home.v1.ApiService"
       },
-      "tag": "proxy-44"
+      "tag": "proxy-35"
     },
     {
       "type": "vless",
@@ -580,7 +476,7 @@
         "type": "grpc",
         "service_name": "gw.v2.RelayService"
       },
-      "tag": "proxy-45"
+      "tag": "proxy-36"
     },
     {
       "type": "vless",
@@ -604,7 +500,7 @@
         "type": "grpc",
         "service_name": "cloud.v1.RelayService"
       },
-      "tag": "proxy-46"
+      "tag": "proxy-37"
     },
     {
       "type": "vless",
@@ -628,7 +524,7 @@
         "type": "grpc",
         "service_name": "api.v2.PushService"
       },
-      "tag": "proxy-47"
+      "tag": "proxy-38"
     },
     {
       "type": "vless",
@@ -652,14 +548,14 @@
         "type": "grpc",
         "service_name": "gw.v1.StreamService"
       },
-      "tag": "proxy-48"
+      "tag": "proxy-39"
     },
     {
       "type": "vless",
       "server": "158.247.120.174",
       "server_port": 62145,
       "uuid": "8fb65472-5957-4f64-ba2d-b5812b2f155a",
-      "tag": "proxy-49"
+      "tag": "proxy-40"
     },
     {
       "type": "vless",
@@ -683,7 +579,7 @@
         "type": "grpc",
         "service_name": "grpc"
       },
-      "tag": "proxy-50"
+      "tag": "proxy-41"
     }
   ],
   "route": {
