@@ -1,24 +1,23 @@
-# skitchenVPN X  🏴 | github.com/cyberanrhy/ski-proxy/blob/main/skitchenVPN.txt
+#profile-title: skitchenVPN X
+#profile-update-interval: 24
+#subscription-userinfo: upload=0; download=0; total=19; expire=0
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#1 TH SS 8080
-vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f#🇵🇱 2 PL VLESS/auto 443
-vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a9c4f17e3b62d8#🇷🇺 3 RU VLESS/api-maps 443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4#🇪🇸 4 ES SS 8388
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388?fp=qq#🇪🇸 5 ES SS 8388
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@94.183.157.200:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1FryqGmMpa7T_bHmy3Uy11C5GWe6F2uzcsCYa9QXJBw&sid=ff993907a731979a&sni=pol1.panel11.ru#🇵🇱 6 PL VLESS/pol1 443
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@pol1.panel11.ru:443?burmalda=3d2f5f65&flow=xtls-rprx-vision&fp=firefox&pbk=1FryqGmMpa7T_bHmy3Uy11C5GWe6F2uzcsCYa9QXJBw&security=reality&sid=ff993907a731979a&sni=pol1.panel11.ru&type=tcp#7 VLESS/pol1 443
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#8 UN SS 7307
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#9 UN SS 8008
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.23.32:8080#10 UN SS 8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:443#11 TH SS 443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjE0OTo4MDgw#12 TH SS 8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#13 TH SS 443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjExOjgwODA=#14 TH SS 8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#15 TH SS 443
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU18xNTd8MTA3S0IvcyIsImFkZCI6IjE2NS4xNDAuMjE2LjE0MiIsInBvcnQiOiI0NDMiLCJpZCI6ImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIifQ==#16 UN VMESS 443
-wireguard://MA7Swo8IhKktkyur61%2B8uj25F4ueq1nbHdpOqua85lE%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=52%2C247%2C177&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#17 WG 2408
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU18xMDl8NzRLQi9zfEMwMDItMjYwNjIyIiwiYWRkIjoiMTI5LjE0Ni4xNDMuODAiLCJwb3J0IjoiNDgxMTEiLCJpZCI6ImQ0NjAzY2MyLWUwZWUtNDY1MS04M2Y1LTFkYjViNzE2ODE3NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9#18 UN VMESS 48111
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@gr1.panel11.ru:443?flow=xtls-rprx-vision&fp=firefox&pbk=8H-YQe-nSd_aL2FwWIFNV2-anUb4v3cY_n5QcEEjGEs&security=reality&sid=eeed325908a87d9f&sni=gr1.panel11.ru&type=tcp#19 VLESS/gr1 443
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@151.242.160.11:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8H-YQe-nSd_aL2FwWIFNV2-anUb4v3cY_n5QcEEjGEs&sid=eeed325908a87d9f&sni=gr1.panel11.ru#20 UN VLESS/gr1 443
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=firefox&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#21 VLESS/rs2 443
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=firefox&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#🇧🇬 22 BG VLESS/bg2 443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080
+vless://5bfc6650-8b56-0012-b0e9-b98fc6367c0d@82.40.62.229:443?security=reality&encryption=none&pbk=NBjOloEUgyAHoLqvcGo_t3jTY8Jya77j5dsNB1VJ8Bo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=auto.api-yandex.net&sid=0f4dacffd272e65f
+vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a9c4f17e3b62d8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1BAMTQwLjE3NC4xODQuNTo4Mzg4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388?fp=qq
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@94.183.157.200:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1FryqGmMpa7T_bHmy3Uy11C5GWe6F2uzcsCYa9QXJBw&sid=ff993907a731979a&sni=pol1.panel11.ru
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@pol1.panel11.ru:443?burmalda=3d2f5f65&flow=xtls-rprx-vision&fp=firefox&pbk=1FryqGmMpa7T_bHmy3Uy11C5GWe6F2uzcsCYa9QXJBw&security=reality&sid=ff993907a731979a&sni=pol1.panel11.ru&type=tcp
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.23.32:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjE0OTo4MDgw
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjExOjgwODA=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU18xNTd8MTA3S0IvcyIsImFkZCI6IjE2NS4xNDAuMjE2LjE0MiIsInBvcnQiOiI0NDMiLCJpZCI6ImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIifQ==
+wireguard://MA7Swo8IhKktkyur61%2B8uj25F4ueq1nbHdpOqua85lE%3D@162.159.192.1:2408?address=172.16.0.2%2F32&reserved=52%2C247%2C177&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@gr1.panel11.ru:443?flow=xtls-rprx-vision&fp=firefox&pbk=8H-YQe-nSd_aL2FwWIFNV2-anUb4v3cY_n5QcEEjGEs&security=reality&sid=eeed325908a87d9f&sni=gr1.panel11.ru&type=tcp
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@151.242.160.11:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8H-YQe-nSd_aL2FwWIFNV2-anUb4v3cY_n5QcEEjGEs&sid=eeed325908a87d9f&sni=gr1.panel11.ru
