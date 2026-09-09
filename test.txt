@@ -1,4 +1,4 @@
-#profile-title: skitchenVPN X
+#profile-title: skitchenVPN X tets
 #profile-update-interval: 24
 #subscription-userinfo: upload=0; download=0; total=21; expire=0
 
