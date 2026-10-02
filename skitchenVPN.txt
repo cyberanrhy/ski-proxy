@@ -1,4 +1,4 @@
-# skitchenVPN X 29/2 | github.com/cyberanrhy/ski-proxy/blob/main/skitchenVPN.txt
+# skitchenVPN X 2 | github.com/cyberanrhy/ski-proxy/blob/main/skitchenVPN.txt
 
 ss://YWVzLTI1Ni1jZmI6aGJ0dmdVejV1Tll5QjNSZg==@185.135.86.175:9036#🇱🇻 1 LV SS 9036
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#2 TH SS 8080
