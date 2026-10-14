@@ -1,4 +1,4 @@
-#profile-title: skitchenVPN X 25.09
+#profile-title: skitchenVPN X 14.10
 #profile-update-interval: 24
 #subscription-userinfo: upload=0; download=0; total=131; expire=0
 
